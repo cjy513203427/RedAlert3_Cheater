@@ -1,6 +1,10 @@
 #include "ra3window.h"
 #include <QApplication>
 #include <QIcon>
+/*
+    作者：Jonas
+    时间：2018/11/18
+*/
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);

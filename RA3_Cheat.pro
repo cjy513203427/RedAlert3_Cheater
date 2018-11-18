@@ -10,6 +10,9 @@ TRANSLATIONS = Translate_EN.ts\
                 Translate_CN.ts\
                 Translate_DE.ts
 
+OTHER_FILES += ico.rc
+RC_FILE += ico.rc
+
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
 TARGET = RA3_Cheat

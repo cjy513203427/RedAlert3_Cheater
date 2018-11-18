@@ -72,6 +72,21 @@
       <height>22</height>
      </rect>
     </property>
+    <item>
+     <property name="text">
+      <string>小</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>标准</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>大</string>
+     </property>
+    </item>
    </widget>
    <widget class="QPushButton" name="pushButton_4">
     <property name="geometry">

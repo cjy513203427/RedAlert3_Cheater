@@ -111,6 +111,12 @@ public:
         label_3->setText(QApplication::translate("Ra3Window", "\347\255\226\347\225\245\345\212\240\346\273\241", Q_NULLPTR));
         pushButton_3->setText(QApplication::translate("Ra3Window", "\347\253\213\345\215\263\347\224\237\346\225\210", Q_NULLPTR));
         label_4->setText(QApplication::translate("Ra3Window", "\351\200\211\345\217\226\345\215\225\344\275\215", Q_NULLPTR));
+        comboBox->clear();
+        comboBox->insertItems(0, QStringList()
+         << QApplication::translate("Ra3Window", "\345\260\217", Q_NULLPTR)
+         << QApplication::translate("Ra3Window", "\346\240\207\345\207\206", Q_NULLPTR)
+         << QApplication::translate("Ra3Window", "\345\244\247", Q_NULLPTR)
+        );
         pushButton_4->setText(QApplication::translate("Ra3Window", "\347\253\213\345\215\263\347\224\237\346\225\210", Q_NULLPTR));
         textEdit->setHtml(QApplication::translate("Ra3Window", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"

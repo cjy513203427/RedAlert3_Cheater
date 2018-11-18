@@ -6,48 +6,63 @@
     <message>
         <location filename="ra3window.ui" line="14"/>
         <source>Ra3Window</source>
-        <translation type="unfinished">Red alert 3 V1.00 cheater</translation>
+        <translation>Red alert 3 V1.00 cheater</translation>
     </message>
     <message>
-        <location filename="ra3window.ui" line="40"/>
+        <location filename="ra3window.ui" line="199"/>
         <source>金钱</source>
         <translation>Geld</translation>
     </message>
     <message>
-        <location filename="ra3window.ui" line="47"/>
+        <location filename="ra3window.ui" line="186"/>
         <source>输入金钱数额</source>
         <translation>Geben den Geldmenge ein</translation>
     </message>
     <message>
-        <location filename="ra3window.ui" line="54"/>
-        <location filename="ra3window.ui" line="87"/>
-        <location filename="ra3window.ui" line="116"/>
-        <location filename="ra3window.ui" line="152"/>
+        <location filename="ra3window.ui" line="50"/>
+        <location filename="ra3window.ui" line="101"/>
+        <location filename="ra3window.ui" line="212"/>
+        <location filename="ra3window.ui" line="251"/>
         <source>立即生效</source>
-        <translation type="unfinished">Gültig</translation>
+        <translation>Gültig</translation>
     </message>
     <message>
-        <location filename="ra3window.ui" line="73"/>
+        <location filename="ra3window.ui" line="225"/>
         <source>电力</source>
         <translation>Elektrische Leistung</translation>
     </message>
     <message>
-        <location filename="ra3window.ui" line="80"/>
+        <location filename="ra3window.ui" line="238"/>
         <source>输入电力值</source>
-        <translation type="unfinished">Geben Leistung ein</translation>
+        <translation>Geben Leistung ein</translation>
     </message>
     <message>
-        <location filename="ra3window.ui" line="103"/>
+        <location filename="ra3window.ui" line="37"/>
         <source>策略加满</source>
         <translation>Füllen Strategie auf</translation>
     </message>
     <message>
-        <location filename="ra3window.ui" line="129"/>
+        <location filename="ra3window.ui" line="63"/>
         <source>选取单位</source>
         <translation>Wählen Einheit aus</translation>
     </message>
     <message>
-        <location filename="ra3window.ui" line="171"/>
+        <location filename="ra3window.ui" line="77"/>
+        <source>小</source>
+        <translation>klein</translation>
+    </message>
+    <message>
+        <location filename="ra3window.ui" line="82"/>
+        <source>标准</source>
+        <translation>Standard</translation>
+    </message>
+    <message>
+        <location filename="ra3window.ui" line="87"/>
+        <source>大</source>
+        <translation>Groß</translation>
+    </message>
+    <message>
+        <location filename="ra3window.ui" line="120"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -82,22 +97,22 @@ p, li { white-space: pre-wrap; }
 &lt;p align=&quot;right&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;				   Verfasser：Jonas&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="ra3window.ui" line="199"/>
+        <location filename="ra3window.ui" line="148"/>
         <source>语言</source>
         <translation>Sprache</translation>
     </message>
     <message>
-        <location filename="ra3window.ui" line="213"/>
+        <location filename="ra3window.ui" line="162"/>
         <source>简体中文</source>
         <translation>Chinesich</translation>
     </message>
     <message>
-        <location filename="ra3window.ui" line="218"/>
+        <location filename="ra3window.ui" line="167"/>
         <source>英语</source>
         <translation>Englisch</translation>
     </message>
     <message>
-        <location filename="ra3window.ui" line="223"/>
+        <location filename="ra3window.ui" line="172"/>
         <source>德语</source>
         <translation>Deutsch</translation>
     </message>

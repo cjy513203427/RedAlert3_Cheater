@@ -10,6 +10,11 @@
 #include <QString>
 #include <QMessageBox>
 #include <QTranslator>
+#include <QEvent>
+/*
+    作者：Jonas
+    时间：2018/11/18
+*/
 namespace Ui {
 class Ra3Window;
 }
@@ -48,9 +53,14 @@ private slots:
     void on_pushButton_3_clicked();
     //单位大小生效按钮
     void on_pushButton_4_clicked();
-
+    //监控语言comboBox改变状态
+    void changeEvent(QEvent *e);
+    //语言comboBox触发函数
     void on_comboBox_2_activated(int index);
-
+    //重写retranslateUi
+    //注释掉语言comboBox清空，修复语言状态错乱（只显示简体中文）
+    //不建议直接修改源码，复制出来重写
+    void retranslateUi(QMainWindow *Ra3Window);
 private:
     Ui::Ra3Window *ui;
     //游戏基址1
